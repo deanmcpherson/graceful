@@ -2,8 +2,8 @@
 
 @import "common/foundation/variables";
 
-@mixin box-shadow($value: 8px) {
-  box-shadow: 0 1px $value rgba(black, 0.18);
+@mixin box-shadow($value: 12px) {
+  box-shadow: 0 2px $value -6px rgba(black, 0.18);
 }
 
 .background-container {
