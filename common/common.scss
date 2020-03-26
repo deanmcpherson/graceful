@@ -92,6 +92,10 @@ tbody {
   }
 }
 
+.custom-header-links .headerLink a {
+  font-size: 1em;
+}
+
 .btn-primary, button.btn-social.oauth2_basic {
   background: $tertiary;
   color: $secondary;
