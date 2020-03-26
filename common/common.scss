@@ -14,6 +14,10 @@ html, body {
   margin-bottom: .3em !important;
 }
 
+.main-link {
+  line-height: 1em;
+}
+
 @mixin box-shadow($value: 12px) {
   box-shadow: 0 2px $value -6px rgba(black, 0.18);
 }
